@@ -2,13 +2,13 @@
 title: "Governing the Crypto Commons"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 60
+weight: 210
 ---
 
 
-Considering public blockchains as ecosystems surrounding the production of a common pool resource gives us a framework for considering how they are governed, and how well this fits with their intended purpose. The backbone of these networks is FOSS, a commons based non rival public good, but the resource the network produces is a rival good, finite and vulnerable to over-exploitation (without a mechanism like transaction fees which regulates access to the common pool resource).
+Considering public blockchains as ecosystems surrounding the production of a common pool resource gives us a framework for considering how they are governed, and how well this fits with their intended purpose. The backbone of these networks is FOSS, a commons-based non-rival public good, but the resource the network produces is a rival good, finite and vulnerable to over-exploitation (without a mechanism like transaction fees which regulates access to the common pool resource).
 
-The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers, bakers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (like users, merchants, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork based governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
+The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (e.g. users, merchants, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork based governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
 
 This section will consider some blockchain projects that are conducting aspects of their decision-making on the commons. It will focus on:
 
