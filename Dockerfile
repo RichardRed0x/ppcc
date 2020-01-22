@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ENV HUGO_VERSION 0.58.2
+ENV HUGO_VERSION 0.62.2
 
 LABEL description="hugo cryptocommons build"
 LABEL version="1.0"
