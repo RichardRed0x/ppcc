@@ -36,6 +36,6 @@ In [part 2](/governance/) of the resource, this framework is then applied to cha
 
 Decentralized Autonomous Organizations (DAOs) have emerged as an effort to harness the coordination and organizational affordances of blockchains. Towards the end the book considers some examples of DAOs that are being used as part of the governance of cryptocurrency networks, and also some platforms which exist to allow for the creation of DAOs with varied purposes.
 
-This is version 1.0 - released Jan 3 2021, the first version to be publicly released was v0.8 on [Nov 1 2019](https://twitter.com/RichardRed0x/status/1190315513043472385). If you already read v0.8, check out the {{change log writeup}} and full details of all changes in this {{pull request}}.
+This is version 1.0 - released Jan 4 2021, the first version to be publicly released was v0.8 on [Nov 1 2019](https://twitter.com/RichardRed0x/status/1190315513043472385). If you already read v0.8, check out the {{change log writeup}} and full details of all changes in this [pull request](https://github.com/block-commons/cryptocommons/pull/27).
 
 [Next - Commons Based Peer Production](/commons-based-peer-production/)
