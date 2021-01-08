@@ -115,8 +115,3 @@ The proposal from the MNs referenced a poll by Ryan Taylor on Discord which aske
 [^11]:Crypto Governance Research Overviews (2019, December 9). *Dash*. Block Commons. https://www.blockcommons.red/crypto-governance-research/overviews/dash/
 [^12]: Dash - Digital Cash. (2019, December 11). *Ryan Taylor—Improving Dash As A Store Of Value*. https://www.youtube.com/watch?v=7yylT6gAihc
 [^13]: Dash - Digital Cash. (2020, June 4). *Dash Core Group Presentation on Dash Economics*. https://www.youtube.com/watch?v=hUf76R2V3pY
-[^14]: 
-[^7]: 
-[^8]: 
-[^9]: 
-
